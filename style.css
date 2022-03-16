@@ -1,0 +1,172 @@
+*{
+    margin: 0 auto;
+    bottom: 0;
+
+}
+
+.qator1{
+    width: 1500px;
+    height: 55px;
+    text-align: center;
+    text-decoration: underline;
+    border: 4px solid black;
+    background-color: yellowgreen;
+    font-size: 24px;
+    font-weight: bold;
+  
+}
+.menu{
+    display: flex;
+}
+.menu1:hover{
+    transform: scale(1.2,1.2);
+}
+.menu2:hover{
+    transform: scale(1.2,1.2);
+}
+.menu3:hover{
+    transform: scale(1.2,1.2);
+}
+.text4:hover{
+    transform: scale(1.2,1.2);
+}
+
+.menu1{
+
+    background-color: aqua;
+    width:500px ;
+    height: 80px;
+    border: 4px solid black;
+    font-size: 24px;
+    font-weight: bold;
+}
+.menu2{
+    background-color: aqua;
+    width:500px ;
+    height: 80px;
+    border: 4px solid black;
+    font-size: 24px;
+    font-weight: bold;
+}
+.menu3{
+    background-color: aqua;
+    width:500px ;
+    height: 80px;
+    font-size: 24px;
+    font-weight: bold;
+    border: 4px solid black;
+}
+.text4{
+    background-color: aqua;
+    width:500px ;
+    height: 80px;
+    font-size: 24px;
+    font-weight: bold;
+    border: 4px solid black;
+}
+.qator2{
+    background-color: chocolate;
+    width: 1500px;
+    height: 55px;
+    text-align: center;
+    text-decoration: underline;
+    border: 4px solid black;
+    background-color: yellowgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.qator3{
+   display: flex;
+
+}
+.rasm1{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+}
+.rasm2{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+}
+.rasm3{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+}
+.rasm4{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+}
+.matn1{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.matn2{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.matn3{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.matn4{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.ramka1{
+ background-color: aquamarine;
+ width: 120px;
+ height: 80px;
+}
+.ramka2{
+    background-color: aquamarine;
+    width: 120px;
+    height: 80px;
+   }
+   .ramka3{
+    background-color: aquamarine;
+    width: 120px;
+    height: 80px;
+   }
+   .ramka4{
+    background-color: aquamarine;
+    width: 120px;
+    height: 80px;
+   }
+   .ramka1:hover{
+       transform: rotate(360deg);
+       transition: 2s;
+   }
+   .ramka2:hover{
+       transform: rotate(45deg);
+       transition: 2s;
+   }
+   .ramka3:hover{
+       transform: matrix(0.5,0.1,0.1,0.5,10,15);
+       transition: 2s;
+   }
+   .ramka4:hover{
+       transform: scale(-1,-10);
+       transform: matrix(0.5,0.1,0.1,0.5,10.15);
+       transition: 3s; }
+       .ramka4:active{
+           
+       }
